@@ -1,0 +1,1 @@
+import{_ as e,c as o,o as t,a as s}from"./index-DTbTJg1M.js";const a={},c=s("h1",null,"This is an about page",-1),n=[c];function _(r,i){return t(),o("main",null,n)}const u=e(a,[["render",_]]);export{u as default};
